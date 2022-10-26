@@ -1,0 +1,4 @@
+name: Decorative Puzzles
+markdown: kramdown
+include: ['_pages']
+
